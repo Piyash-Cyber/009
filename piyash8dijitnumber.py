@@ -73,12 +73,14 @@ _____ _______     __       _____ _    _
  | |    _| |_   | |/ ____ \ ____) | |  | |
  |_|   |_____|  |_/_/    \_\_____/|_|  |_|
    
- [✯] FACEBOOK : PIYASH SARDAR
- [✯] FB PAGE   : Piyash Termux World BD
- [✯] GITHUB   : PIYASH FUCKER
- [✯] WARNING : THIS IS FREE FOR ALL USER 
+  FACEBOOK : PIYASH SARDAR
+ FB PAGE   : Piyash Termux World BD
+ GITHUB   : PIYASH FUCKER
+ WARNING : THIS IS FREE FOR ALL USER 
 ════════════════════════════════════════════════ """                                                                                                                                                        
    
+
+
 back = 0
 successful = []
 cpb = []
