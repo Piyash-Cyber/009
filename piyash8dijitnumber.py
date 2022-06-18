@@ -73,18 +73,12 @@ _____ _______     __       _____ _    _
  | |    _| |_   | |/ ____ \ ____) | |  | |
  |_|   |_____|  |_/_/    \_\_____/|_|  |_|
    
-═══════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════
  [✯] FACEBOOK : PIYASH SARDAR
  [✯] FB PAGE   : Piyash Termux World BD
  [✯] GITHUB   : PIYASH FUCKER
  [✯] WARNING : THIS IS FREE FOR ALL USER 
-═══════════════════════════════════════════════════════════
-
- [•] TOOL NAME : PIYASH 8 DIGIT CLONER
- [•] VERSION   : 2.0
- [•] YOUR KEY  : NO KEY🥰 ONLY LOVE
- [•] STATUS    : FREE TOOLS FOR LOVER
-                                                                                                                                                               
+══════════════════════════════════════════════════════                                                                                                                                                             
    """
 back = 0
 successful = []
