@@ -66,33 +66,24 @@ def cb():
 
 
 logo = """
-_/|    _   |\_
-           _/_ |   _|\\ | _\
-         _/_/| /  /   \|\ |\_\_
-       _/_/  |/  /  _  \/\|  \_\_
-     _/_/    ||  | | \o/ ||    \_\_
-    /_/  | | |\  | \_ V  /| | |  \_\
-   //    ||| | \_/   \__/ | |||    \\
-  // __| ||\  \          /  /|| |__ \\
- //_/ \|||| \/\\        //\/ ||||/ \_\\
-///    \\\\/   /        \   \////    \\\
-|/      \/    |    |    |     \/      \|
-              /_|  | |_  \
-             ///_| |_||\_ \
-             |//||/||\/||\|
-              / \/|||/||/\/
-                /|/\| \/
-                \/  |
-
-********************************************************
 _____ _______     __       _____ _    _
  |  __ \_   _\ \   / //\    / ____| |  | |
  | |__) || |  \ \_/ //  \  | (___ | |__| |
  |  ___/ | |   \   // /\ \  \___ \|  __  |
  | |    _| |_   | |/ ____ \ ____) | |  | |
  |_|   |_____|  |_/_/    \_\_____/|_|  |_|
+   
+═══════════════════════════════════════════════════════════
+ [✯] FACEBOOK : PIYASH SARDAR
+ [✯] FB PAGE   : Piyash Termux World BD
+ [✯] GITHUB   : PIYASH FUCKER
+ [✯] WARNING : THIS IS FREE FOR ALL USER 
+═══════════════════════════════════════════════════════════
 
-********************************************************
+ [•] TOOL NAME : PIYASH 8 DIGIT CLONER
+ [•] VERSION   : 2.0
+ [•] YOUR KEY  : NO KEY🥰 ONLY LOVE
+ [•] STATUS    : FREE TOOLS FOR LOVER
                                                                                                                                                                
    """
 back = 0
@@ -104,7 +95,7 @@ print 'AUTHOR : PIYASH SARDAR'
 print 'FACEBOOK PAGE : Piyash Termux World BD'
 print 'WhatsApp : 01873615592'
 CorrectUsername = 'Piyash'
-CorrectPassword = 'Piyashforlover'
+CorrectPassword = 'Ma'
 loop = 'true'
 while loop == 'true':
     username = raw_input('\x1b[1;91m \x1b[1;92mUSERNAME \x1b[1;92m: \x1b[1;92m')
